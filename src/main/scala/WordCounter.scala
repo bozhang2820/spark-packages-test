@@ -1,4 +1,4 @@
-package com.brkyvz.spark
+package com.bozhang.spark
 
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
